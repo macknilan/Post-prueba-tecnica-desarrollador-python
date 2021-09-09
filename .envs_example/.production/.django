@@ -1,0 +1,39 @@
+# General
+# ------------------------------------------------------------------------------
+# DJANGO_READ_DOT_ENV_FILE=
+# DJANGO_SETTINGS_MODULE=
+# DJANGO_SECRET_KEY=
+# DJANGO_ADMIN_URL=
+# DJANGO_ALLOWED_HOSTS=
+
+# Security
+# ------------------------------------------------------------------------------
+# TIP: better off using DNS, however, redirect is OK too
+# DJANGO_SECURE_SSL_REDIRECT=False
+
+# Email
+# ------------------------------------------------------------------------------
+# DJANGO_SERVER_EMAIL=
+
+# MAILGUN_API_KEY=
+# MAILGUN_DOMAIN=
+
+
+# GCP
+# ------------------------------------------------------------------------------
+# GOOGLE_APPLICATION_CREDENTIALS=
+# DJANGO_GCP_STORAGE_BUCKET_NAME=
+
+# django-allauth
+# ------------------------------------------------------------------------------
+# DJANGO_ACCOUNT_ALLOW_REGISTRATION=True
+
+# Gunicorn
+# ------------------------------------------------------------------------------
+# WEB_CONCURRENCY=4
+
+
+# Redis
+# ------------------------------------------------------------------------------
+# REDIS_URL=redis://redis:6379/0
+
